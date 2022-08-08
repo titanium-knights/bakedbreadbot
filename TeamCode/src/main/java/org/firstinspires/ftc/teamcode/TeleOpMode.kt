@@ -7,6 +7,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp
 import org.firstinspires.ftc.teamcode.util.ToggleButton
 
+@Disabled
 @TeleOp(name = "Baked Bread Bot")
 @Config class BreadBotTeleOpMode: LinearOpMode() {
     override fun runOpMode() {
